@@ -1,0 +1,24 @@
+; --- append to amber14sb-q-mut.ff/ffbonded.itp ---
+; TYM quinoid Czeta terms on the new type cq.
+; condensed-phase wB97X-3c target: Cz-O 1.324 A, Ce-Cz-Ce 117.2 deg, Ce-Cz-O 121.4 deg.
+; b0 = QM bond; k(cq-o) = 494210 = Seminario constant from the QM Hessian.
+
+[ bondtypes ]
+; i   j   func   b0(nm)     kb
+cq   o    1    0.13300    494210.0   ; Cz-O condensed (b0 QM, k Seminario)
+cq   cc   1    0.14676    310452.8   ; clone of cc-c
+
+[ angletypes ]
+; i   j   k   func   th0        cth
+cc   cq   cc   1   117.200    540.573   ; apex Ce-Cz-Ce -> QM condensed
+cc   cq   o    1   121.400    578.229   ; Ce-Cz-O -> QM condensed
+cq   cc   cd   1   121.350    544.757   ; clone of c-cc-cd
+cq   cc   ha   1   116.640    392.459   ; clone of c-cc-ha
+
+[ dihedraltypes ] ; proper
+; i   j   k   l   func   phase      kd          pn
+X    cc   cq   X    9    180.00    12.02900    2   ; clone of X-cc-c-X
+
+[ dihedraltypes ] ; improper
+; i   j   k   l   func   phase      kd          pn
+cc   cc   cq   o    4    180.00    43.93200    2   ; Cz=O out-of-plane

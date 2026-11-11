@@ -1,0 +1,6 @@
+; --- append to amber14sb-q-mut.ff/ffnonbonded.itp [ atomtypes ] ---
+; new quinoid Czeta type: clone of GAFF c, but a DISTINCT name so the
+; lengthened Cz-O bond does not collide with amber's own backbone 'c'.
+[ atomtypes ]
+; name  at.num  mass     charge  ptype  sigma(nm)     epsilon(kJ/mol)
+cq       6      12.010   0.0000  A      3.39967e-01   3.59824e-01   ; quinoid Cz (= GAFF c LJ)

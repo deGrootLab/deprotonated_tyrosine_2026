@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these TYM parameters, please cite the paper below."
+title: "TYM — a transferable deprotonated-tyrosine residue for Amber and CHARMM"
+authors:
+  - family-names: Wilson
+    given-names: Carter J.
+    orcid: "https://orcid.org/0000-0002-8992-6269"
+    affiliation: "Max Planck Institute for Multidisciplinary Sciences, Göttingen"
+  - family-names: de Groot
+    given-names: Bert L.
+    orcid: "https://orcid.org/0000-0003-3570-3534"
+    affiliation: "Max Planck Institute for Multidisciplinary Sciences, Göttingen"
+preferred-citation:
+  type: article
+  title: "A Transferable Deprotonated-Tyrosine Residue for pKa Prediction"
+  authors:
+    - family-names: Wilson
+      given-names: Carter J.
+    - family-names: de Groot
+      given-names: Bert L.
+  year: 2026
+  journal: "TBD"
+  doi: "TBD"

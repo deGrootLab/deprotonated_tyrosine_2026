@@ -1,0 +1,6 @@
+
+; atom renaming specification
+; residue gromacs    forcefield
+MLY        HN          H
+MLZ        HN          H
+M3L        HN          H
