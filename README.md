@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-TBD-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Force fields](https://img.shields.io/badge/force%20fields-Amber%20%7C%20CHARMM-1f77b4)
 ![GROMACS](https://img.shields.io/badge/GROMACS-drop--in-informational)
 ![pmx](https://img.shields.io/badge/pmx-TYR%E2%86%94TYM%20free%20energy-6f42c1)
@@ -167,3 +167,10 @@ Every force field here builds a `TYM`-containing topology and passes
 
 Computational Biomolecular Dynamics Group, Max Planck Institute for
 Multidisciplinary Sciences, Göttingen.
+
+## License
+
+Released under the **MIT License** — see [`LICENSE`](LICENSE). You may use,
+modify, and redistribute the parameters and code (including commercially),
+provided the copyright notice and license text are retained. If you use `TYM`
+in research, please also cite the paper above.
