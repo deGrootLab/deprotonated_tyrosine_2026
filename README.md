@@ -164,5 +164,6 @@ Every force field here builds a `TYM`-containing topology and passes
 ## Get in touch
 
 - **Carter J. Wilson** — [`cwilson@mpinat.mpg.de`](mailto:cwilson@mpinat.mpg.de) · ORCID [0000-0002-8992-6269](https://orcid.org/0000-0002-8992-6269)
+
 Computational Biomolecular Dynamics Group, Max Planck Institute for
 Multidisciplinary Sciences, Göttingen.
