@@ -6,7 +6,9 @@
 
 # TYM — a transferable deprotonated-tyrosine residue
 
-<!-- optional banner: assets/tym_ring.svg (the Fig. 1a atom-typing panel makes a good logo) -->
+<p align="center">
+  <img src="assets/toc.png" alt="TYM" width="640">
+</p>
 
 **`TYM`** is a drop-in **tyrosinate** residue — tyrosine with the phenol
 deprotonated to the anionic **quinoid phenolate** — for the major fixed-charge
