@@ -4,7 +4,7 @@
 ![pmx](https://img.shields.io/badge/pmx-TYR%E2%86%94TYM%20free%20energy-6f42c1)
 ![Paper](https://img.shields.io/badge/paper-2026-e8702a)
 
-# TYM — a transferable deprotonated-tyrosine residue
+# TYM — a transferable deprotonated tyrosine residue
 
 <p align="center">
   <img src="assets/toc.png" alt="TYM" width="640">
