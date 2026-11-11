@@ -1,4 +1,4 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Force fields](https://img.shields.io/badge/force%20fields-Amber%20%7C%20CHARMM-1f77b4)
 ![GROMACS](https://img.shields.io/badge/GROMACS-drop--in-informational)
 ![pmx](https://img.shields.io/badge/pmx-TYR%E2%86%94TYM%20free%20energy-6f42c1)
